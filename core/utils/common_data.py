@@ -1,0 +1,13 @@
+class CommonData:
+    id = 'id'
+    person = 'person'
+    file_accounts = './asset/file_accounts/%s.json'
+    schema_accounts = './features/resources/schema_account/%s.json'
+    endpoint = 'endpoints'
+    post = 'POST'
+    get = 'GET'
+    delete = 'DELETE'
+    account_file = 'created_file'
+    endpoint_create = 'member_list'
+    endpoint_delete = 'member'
+    endpoint_accounts = 'account_list'

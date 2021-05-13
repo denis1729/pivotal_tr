@@ -1,0 +1,55 @@
+2018-10-15 08:51:51,265 	 [INFO] | steps_me.py:13] > Configure Client
+2018-10-15 08:51:51,266 	 [INFO] | steps_me.py:22] > Execute Request
+2018-10-15 08:51:52,744 	 [INFO] | steps_me.py:32] > Validation Smoke
+2018-10-15 08:52:18,057 	 [INFO] | steps_me.py:13] > Configure Client
+2018-10-15 08:52:18,058 	 [INFO] | steps_me.py:22] > Execute Request
+2018-10-15 08:52:20,255 	 [INFO] | steps_me.py:32] > Validation Smoke
+2018-10-15 14:48:55,450 	 [INFO] | steps_me.py:13] > Configure Client
+2018-10-15 14:48:55,452 	 [INFO] | steps_me.py:22] > Execute Request
+2018-10-15 14:48:57,887 	 [INFO] | steps_me.py:32] > Validation Smoke
+2018-10-15 14:49:03,874 	 [INFO] | steps_me.py:13] > Configure Client
+2018-10-15 14:49:03,875 	 [INFO] | steps_me.py:22] > Execute Request
+2018-10-15 14:49:05,415 	 [INFO] | steps_me.py:32] > Validation Smoke
+2018-10-15 16:15:14,406 	 [INFO] | steps_me.py:13] > Configure Client
+2018-10-15 16:15:14,406 	 [INFO] | steps_me.py:22] > Execute Request
+2018-10-15 16:16:41,744 	 [INFO] | steps_me.py:13] > Configure Client
+2018-10-15 16:16:41,746 	 [INFO] | steps_me.py:22] > Execute Request
+2018-10-15 16:18:36,796 	 [INFO] | steps_me.py:13] > Configure Client
+2018-10-15 16:18:36,796 	 [INFO] | steps_me.py:22] > Execute Request
+2018-10-15 16:18:37,430 	 [INFO] | steps_me.py:13] > Configure Client
+2018-10-15 16:18:37,431 	 [INFO] | steps_me.py:22] > Execute Request
+2018-10-15 16:19:06,769 	 [INFO] | steps_me.py:13] > Configure Client
+2018-10-15 16:19:06,771 	 [INFO] | steps_me.py:22] > Execute Request
+2018-10-15 16:19:08,660 	 [INFO] | steps_me.py:32] > Validation Smoke
+2018-10-15 16:19:54,774 	 [INFO] | steps_me.py:13] > Configure Client
+2018-10-15 16:19:54,781 	 [INFO] | steps_me.py:22] > Execute Request
+2018-10-15 16:19:56,415 	 [INFO] | steps_me.py:32] > Validation Smoke
+2018-10-15 16:21:49,044 	 [INFO] | steps_me.py:13] > Configure Client
+2018-10-15 16:21:49,045 	 [INFO] | steps_me.py:22] > Execute Request
+2018-10-15 16:21:50,812 	 [INFO] | steps_me.py:32] > Validation Smoke
+2018-10-15 16:22:36,696 	 [INFO] | steps_me.py:13] > Configure Client
+2018-10-15 16:22:36,698 	 [INFO] | steps_me.py:22] > Execute Request
+2018-10-15 16:22:38,140 	 [INFO] | steps_me.py:32] > Validation Smoke
+2018-10-15 16:28:12,515 	 [INFO] | steps_me.py:13] > Configure Client
+2018-10-15 16:28:12,531 	 [INFO] | steps_me.py:22] > Execute Request
+2018-10-15 16:29:20,750 	 [INFO] | steps_me.py:13] > Configure Client
+2018-10-15 16:29:20,750 	 [INFO] | steps_me.py:22] > Execute Request
+2018-10-15 16:29:22,921 	 [INFO] | steps_me.py:32] > Validation Smoke code response= 400
+2018-10-15 16:30:05,046 	 [INFO] | steps_me.py:13] > Configure Client
+2018-10-15 16:30:05,046 	 [INFO] | steps_me.py:22] > Execute Request
+2018-10-15 16:30:06,702 	 [INFO] | steps_me.py:32] > Validation Smoke code response= 200
+2018-10-15 16:47:57,421 	 [INFO] | steps_accounts.py:13] > Execute Request
+2018-10-15 16:49:40,015 	 [INFO] | steps_accounts.py:13] > Execute Request
+2018-10-15 16:50:50,109 	 [INFO] | steps_accounts.py:13] > Execute Request
+2018-10-15 16:50:50,109 	 [INFO] | steps_me.py:13] > Configure Client
+2018-10-15 16:50:50,109 	 [INFO] | steps_me.py:22] > Execute Request
+2018-10-15 16:50:51,563 	 [INFO] | steps_me.py:32] > Validation Smoke
+2018-10-15 16:53:50,656 	 [INFO] | steps_accounts.py:13] > Configure Client
+2018-10-15 16:53:50,656 	 [INFO] | steps_accounts.py:22] > Execute Request
+2018-10-15 16:53:52,077 	 [INFO] | steps_accounts.py:32] > Validation Smoke code response= 400
+2018-10-15 16:55:52,265 	 [INFO] | steps_accounts.py:13] > Configure Client
+2018-10-15 16:55:52,265 	 [INFO] | steps_accounts.py:22] > Execute Request
+2018-10-15 16:55:53,671 	 [INFO] | steps_accounts.py:32] > Validation Smoke code response= 400
+2018-10-15 17:01:06,931 	 [INFO] | steps_accounts.py:13] > Configure Client
+2018-10-15 17:01:06,933 	 [INFO] | steps_accounts.py:23] > Execute Request
+2018-10-15 17:01:08,532 	 [INFO] | steps_accounts.py:33] > Validation Smoke code response= 200

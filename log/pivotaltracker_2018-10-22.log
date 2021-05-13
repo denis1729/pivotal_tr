@@ -1,0 +1,29 @@
+2018-10-22 08:33:51,779 	 [INFO] | steps_accounts.py:17] > Configure Client for account membership 
+2018-10-22 08:33:51,787 	 [INFO] | steps_accounts.py:66] > Execute Request for create and update feature
+2018-10-22 08:33:54,517 	 [INFO] | steps_accounts.py:26] > Configure Client for account membership with specific id
+2018-10-22 08:33:54,522 	 [INFO] | steps_accounts.py:66] > Execute Request for create and update feature
+2018-10-22 08:33:55,520 	 [INFO] | steps_accounts.py:78] > Validation crud : updated
+2018-10-22 08:33:56,956 	 [INFO] | steps_accounts.py:26] > Configure Client for account membership with specific id
+2018-10-22 08:33:56,962 	 [INFO] | steps_accounts.py:53] > Execute Request for a feature
+2018-10-22 08:35:43,500 	 [INFO] | steps_accounts.py:17] > Configure Client for account membership 
+2018-10-22 08:35:43,504 	 [INFO] | steps_accounts.py:66] > Execute Request for create and update feature
+2018-10-22 08:35:46,426 	 [INFO] | steps_accounts.py:26] > Configure Client for account membership with specific id
+2018-10-22 08:35:46,432 	 [INFO] | steps_accounts.py:66] > Execute Request for create and update feature
+2018-10-22 08:35:47,341 	 [INFO] | steps_accounts.py:78] > Validation crud : updated
+2018-10-22 08:35:48,942 	 [INFO] | steps_accounts.py:26] > Configure Client for account membership with specific id
+2018-10-22 08:35:48,947 	 [INFO] | steps_accounts.py:53] > Execute Request for a feature
+2018-10-22 08:37:01,217 	 [INFO] | steps_accounts.py:17] > Configure Client for account membership 
+2018-10-22 08:37:01,221 	 [INFO] | steps_accounts.py:66] > Execute Request for create and update feature
+2018-10-22 08:37:04,146 	 [INFO] | steps_accounts.py:26] > Configure Client for account membership with specific id
+2018-10-22 08:37:04,154 	 [INFO] | steps_accounts.py:66] > Execute Request for create and update feature
+2018-10-22 08:37:04,960 	 [INFO] | steps_accounts.py:78] > Validation crud : updated
+2018-10-22 08:37:06,620 	 [INFO] | steps_accounts.py:26] > Configure Client for account membership with specific id
+2018-10-22 08:37:06,625 	 [INFO] | steps_accounts.py:53] > Execute Request for a feature
+2018-10-22 08:43:30,470 	 [INFO] | steps_accounts.py:17] > Configure Client for account membership 
+2018-10-22 08:43:30,473 	 [INFO] | steps_accounts.py:66] > Execute Request for create and update feature
+2018-10-22 08:43:31,421 	 [INFO] | steps_accounts.py:78] > Validation crud : created
+2018-10-22 08:43:32,953 	 [INFO] | steps_accounts.py:26] > Configure Client for account membership with specific id
+2018-10-22 08:43:32,957 	 [INFO] | steps_accounts.py:66] > Execute Request for create and update feature
+2018-10-22 08:43:33,801 	 [INFO] | steps_accounts.py:78] > Validation crud : updated
+2018-10-22 08:43:35,282 	 [INFO] | steps_accounts.py:26] > Configure Client for account membership with specific id
+2018-10-22 08:43:35,288 	 [INFO] | steps_accounts.py:53] > Execute Request for a feature

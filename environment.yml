@@ -1,0 +1,14 @@
+token: d45406041eb71694d1a5e74199bed978
+api_url: https://www.pivotaltracker.com/services/v5
+endpoints:
+  me: /me
+  project: /projects/%s
+  epics: /projects/%s/epics/
+  epics_idepics: /epics/%s
+  epics_fiels: ?fields=name%2Clabel_id
+
+  account: /accounts/%s
+  account_list: /accounts/
+  account_summaries: /account_summaries
+  member_list: /accounts/%s/memberships/
+  member: /accounts/%s/memberships/%s
